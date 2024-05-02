@@ -1,0 +1,48 @@
+O que são?
+
+Pseudo-classes são seletoradores especiais em CSS que permitem estilizar elementos com base em seu estado ou comportamento. Elas não representam elementos HTML específicos, mas sim estados dinâmicos, como:
+
+Hover: Quando o mouse passa sobre um elemento.
+Focus: Quando um elemento recebe foco (por exemplo, clicando nele ou usando a tecla Tab).
+Active: Quando um elemento está ativo (por exemplo, um botão clicado).
+Visited: Quando um link já foi visitado.
+Link: Quando um elemento é um link.
+Disabled: Quando um elemento está desabilitado.
+Child: Quando um elemento é filho de outro elemento específico.
+First-child: Quando um elemento é o primeiro filho de seu pai.
+Last-child: Quando um elemento é o último filho de seu pai.
+Empty: Quando um elemento não possui filhos.
+Not: Nega outro seletor.
+Exemplos:
+
+Mudar a cor do texto ao passar o mouse:
+CSS
+a:hover {
+  color: red;
+}
+
+O que é display?
+
+Em CSS, a propriedade display é fundamental para controlar como os elementos HTML são exibidos na tela. Ela define o tipo de caixa que um elemento irá formar e como ele se comportará em relação aos outros elementos na página.
+
+Tipos de display:
+
+block: O elemento é exibido como um bloco completo, ocupando toda a largura disponível e iniciando uma nova linha.
+inline: O elemento é exibido na mesma linha que outros elementos, como se estivesse "dentro" da linha.
+inline-block: Combina características de inline e block. O elemento é exibido na mesma linha que outros elementos, mas ocupa toda a largura disponível e não inicia uma nova linha.
+flex: Cria um layout flexbox, permitindo um controle mais flexível do posicionamento e do tamanho dos elementos.
+grid: Cria um layout grid, permitindo organizar os elementos em uma grade com linhas e colunas.
+none: O elemento não é exibido na tela.
+Exemplos:
+
+Exibir um parágrafo como bloco:
+CSS
+p {
+  display: block;
+}
+Use o código com cuidado.
+Exibir uma imagem na mesma linha que o texto:
+CSS
+img {
+  display: inline;
+}

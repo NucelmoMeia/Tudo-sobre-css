@@ -1,0 +1,10 @@
+Padding(Espaçamento Interno)
+Margin(Espaçamento Externo)
+Outline(Traçamento)
+
+Existem dois tipos de caixas que são:
+
+1ºBox-Level(Sempre ocupa a largura 100% do viewport e é utilizado para separar uma coluna da outra)(O box-level é utilizado pela tag <Div>)
+2ºInline-Level(Não cocupa 100% e é utilizado para colocar uma coluna do lado da outra)(O Inline level é utilizado pela tag <span>)
+
+Se for uma caixa e vc quiser colocar ela no meio deves colocar um margin auto

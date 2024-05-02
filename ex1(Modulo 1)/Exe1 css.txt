@@ -1,0 +1,9 @@
+Nessa aula aprendi que o css tem vairias formas de aplicação que são:
+
+Estilos Inline:que é o que vc aplica style a cada uma tag a tag.
+
+Estilo interno ou local:Que é quandi v  aplica o style dentro do index no head.
+
+Estilo externo:vc deve criar um arquivo style.css.
+
+Também aprendi que para fazer estilo externo tem que se ligar o html com o css usando a tag link

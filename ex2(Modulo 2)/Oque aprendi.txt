@@ -1,0 +1,22 @@
+Nesta aula aprendi que existem 3 tipos de representar as cores em css que são:
+
+Por Nomes:Colocar o nome das cores com (White,black,green etc)
+
+Por códigos Hexadecimais:Colocar o codigo das cores como (#fff,#0000,#44555 etc.)
+
+Usando o RGb na sua forma Normal:Ex:Rgb(0,0,255)
+Rgb significa:Red,Green.Blue.
+
+Também aprendi a criar Gradiente no Css:
+Tag principal:Background-image: linear-gradient (e aí vc escolhe se é to top ou right ou bottom ou seja para cima ou para direita ou para baixo e depois vc escolhe as cores ex: white, blue.
+
+Aprendi também que(*) no css e configs Globais!
+
+também aprendi sobre tipografia!
+Aprendi que existem as sans-serif,serif,e monospace!
+E altera o tamanho é com a Font-size.
+
+Também aprendi que é de preferencia usar px ou em e os sites normalmente colocam a fonte 16px que é o mesmo que 1em.
+Aprendi também que weight é peso e width é largura e height is altura.
+@ significa regras e quando for pra colocar uma tem de se colocar logo depois di style ou a cima do codigo css.
+
